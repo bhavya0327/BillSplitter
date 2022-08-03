@@ -1,4 +1,5 @@
 # tip_split_calculator
+![Screenshot (6)](https://user-images.githubusercontent.com/99274860/182597916-5ba4846a-61c5-427b-b2c8-c993f3cc0ce3.png)
 
 NOTE : All the layouts and design are done in the home.dart (lib<ui<home.dart) 
 And the App is run inside the main.dart (lib<main.dart)
